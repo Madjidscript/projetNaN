@@ -126,6 +126,17 @@ body{
     padding: 10px;
     transform: skew(0deg,-00.01turn);
 }
+.text .ronde{
+    width: 80px;
+    height: 80px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:1px solid #5DAE47;
+    border-radius: 100%;
+    /* transform: rotate(90deg); */
+}
 .text .petit-rond{
     width: 60px;
     height: 60px;
